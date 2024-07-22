@@ -1,0 +1,3 @@
+1- Single Point of Access: Ensures there is a single, consistent way to log messages throughout the application.
+
+2-Performance: Reduces the overhead of creating and destroying multiple instances of the Logger.
